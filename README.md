@@ -51,7 +51,7 @@ Otherwsie use steps bellow to submit it:
 
 Your submission will be evaluated based on:
 
-- Correctness: Solution correctly reverse the digits of the input integer while handling edge cases and overflow? ✅
+- Correctness: Correctly reverse the digits of the input integer while handling edge cases and overflow? ✅
 - Code Quality: Is the code readable, well-structured, and maintainable? 📊
 - Efficiency: Does the solution perform well with large inputs? 🚀
 - Testing: Are there unit tests, and do they adequately cover different scenarios? 🧪 (optional)
