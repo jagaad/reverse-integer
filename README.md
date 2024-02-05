@@ -29,11 +29,11 @@ Write a function that takes an integer as its input and returns the integer with
 4. Input: `0`
    Output: `0`
 
-5. Input: `2147533648` (outside 32 bit integer)
-   Output: `0`
+5. Input: `2147533648`
+   Output: `0` (outside 32 bit integer)
 
-6. Input: `-2147383643` (outside 32 bit integer)
-   Output: `0`
+6. Input: `-2147383643`
+   Output: `0` (outside 32 bit integer)
 
 
 ## Requirements ✅
